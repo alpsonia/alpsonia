@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is Dongyu. I am currently working on robotics.
+This is Dongyu. I am currently working in robotics.
 
 My works include:
 - Long-horizon context memory for robot arm manipulation 👉 []()
