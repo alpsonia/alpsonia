@@ -2,6 +2,15 @@
 
 I am currently working on robotics.
 
+My works include:
+- Long-horizon context memory for robot arm manipulation 👉 []()
+- Subtask segmentation 👉 []()
+- Paralleled real-time chunking for smooth manipulation 👉 []()
+- Semi-supervised learning for novel class discovery 👉 []()
+- Sensor fusion and uncertainty quantification 👉 []()
+
+And my long term goal is to develop micro robot and continuum robot.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dongyu-hpc/dongyu-hpc/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dongyu-hpc/dongyu-hpc/output/github-contribution-grid-snake.svg">
